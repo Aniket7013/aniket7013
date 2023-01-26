@@ -1,12 +1,9 @@
-<img class="center" width="600" src="https://img.freepik.com/free-vector/neon-cyber-security-concept-with-padlock-circuit_23-2148536303.jpg">
 <h1 align="center">Hi 👋, I'm Aniket Rai</h1>
 <h3 align="center">I have a passion and obsession for cybersecurity.</h3>
 <img align="right" width="400" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket7013&label=Profile%20views&color=0e75b6&style=flat" alt="aniket7013" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@aniketrai07" target="blank"><img src="https://img.shields.io/twitter/follow/@aniketrai07?logo=twitter&style=for-the-badge" alt="@aniketrai07" /></a> </p>
 
 - 👀 I'm interested in cybersecurity and penetration testing
 
@@ -18,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aniketrai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aniketrai07" height="30" width="40" /></a>
+<a href="https://twitter.com/aniketrai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketrai07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/the-aniket-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-aniket-rai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rey_track" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rey_track" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aniketrai893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketrai893" height="30" width="40" /></a>
@@ -32,3 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket7013&show_icons=true&locale=en" alt="aniket7013" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket7013&" alt="aniket7013" /></p>
